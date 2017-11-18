@@ -1,11 +1,16 @@
 # WoW Vanilla Facts
 
 Table of Contents
+ - [Gameplay](#Gameplay)
  - [Professions](#Professions)
  - Classes
    * [Hunter](#Hunter)
 
 ## Gameplay
+
+### General
+ - Resurrecion Sickness does not effect players below level 10.
+
 ### Professions
 #### Gathering
  - Gathering from a node can fail, resulting in the node needing to be clicked again.
