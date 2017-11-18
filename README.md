@@ -8,6 +8,7 @@ Table of Contents
 ## Gameplay
 ### Professions
 #### Mining
+ - Mining nodes found in the world required multiple clicks to retrieve all the the resources from it.
 
 ## Classes
 ### General / Multi-class
