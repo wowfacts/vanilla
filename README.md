@@ -1,6 +1,9 @@
 # WoW Vanilla Facts
 
-[Professions](#Professions)
+Table of Contents
+ - [Professions](#Professions)
+ - Classes
+   * [Hunter](#Hunter)
 
 ## Gameplay
 ### Professions
