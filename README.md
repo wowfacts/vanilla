@@ -7,6 +7,9 @@ Table of Contents
 
 ## Gameplay
 ### Professions
+#### Gathering
+ - Gathering from a node can fail, resulting in the node needing to be clicked again.
+
 #### Mining
  - Mining nodes found in the world required often multiple clicks to retrieve all the the resources from it.
 
@@ -14,6 +17,7 @@ Table of Contents
 ### General / Multi-class
  - At level 10 all classes earned a talent point, each level after this provided 1 additional talent point, resulting in 51 talents at level 60.
  - A lot of classes had 3 weapon slots, the third usually being for a ranged weapon.  (This often caused hunters to lose weapons to a warrior or a rogue, because they also wanted the additional stats the weapon provided).
+ - All weapons had a different weapon skill which would need to be levelled up by using a weapon of that type.  Having low skill would result in a lot more misses than usual.
 
 ### Hunter
 
