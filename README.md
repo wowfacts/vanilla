@@ -28,7 +28,8 @@ Table of Contents
 
 ### Hunter
 
-#### Weapons
+#### Weapons / Combat
+ - Bows/Guns have a minimum range of around 8 yards, if a mob is closer than this you have to melee or kite.
  - Bows/Guns used ammunition which had to be bought at a vendor or crafted.
    * Ammunition came in various forms, higher level ammo did more damage than lower level, see: [Light Shot](http://www.wowhead.com/item=2516/light-shot).
    * There was also a special ammunition which did not run out of charges.
