@@ -1,9 +1,14 @@
 # WoW Vanilla Facts
 
-## General / Multi-class
- - A lot of classes had 3 weapon slots, the third usually being for a ranged weapon.  (This often caused hunters to lose weapons to a warrior or a rogue, because they also wanted the additional stats the weapon provided).
+[Professions](#Professions)
+
+## Gameplay
+### Professions
+#### Mining
 
 ## Classes
+### General / Multi-class
+ - A lot of classes had 3 weapon slots, the third usually being for a ranged weapon.  (This often caused hunters to lose weapons to a warrior or a rogue, because they also wanted the additional stats the weapon provided).
 
 ### Hunter
 
