@@ -9,7 +9,7 @@
 
 #### Weapons
  - Bows/Guns used ammunition which had to be bought at a vendor
-   * Ammunition came in various forms, higher level ammo did more damage than lower level
+   * Ammunition came in various forms, higher level ammo did more damage than lower level, see: [Light Shot](http://www.wowhead.com/item=2516/light-shot)
    * There was also a special ammunition which did not run out of charges
 #### Pets
  - Pets had to be kept happy, if they became angry with you, you would lose them, and have to tame a new pet.
